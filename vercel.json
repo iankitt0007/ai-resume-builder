@@ -1,9 +1,8 @@
 {
-  "buildCommand": "pnpm build",
+  "buildCommand": "npm run build",
   "outputDirectory": ".next",
-  "installCommand": "pnpm install",
+  "installCommand": "npm install",
   "framework": "nextjs",
-  "rootDirectory": "apps/web",
   "rewrites": [
     {
       "source": "/api/v1/:path*",
