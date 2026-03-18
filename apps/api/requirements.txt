@@ -1,0 +1,19 @@
+# FastAPI
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+
+# Pydantic
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# Supabase
+supabase>=2.3.0
+
+# Auth
+python-jose[cryptography]>=3.3.0
+
+# PDF
+pyppeteer>=1.0.2
+
+# HTTP
+httpx>=0.26.0
