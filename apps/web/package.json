@@ -37,7 +37,7 @@
     "zod": "^3.22.4",
     "@tiptap/react": "^2.6.0",
     "@tiptap/starter-kit": "^2.6.0",
-    "@resume-builder/shared-types": "workspace:*",
+    "@resume-builder/shared-types": "*",
     "zustand": "^4.5.2"
   },
   "devDependencies": {
