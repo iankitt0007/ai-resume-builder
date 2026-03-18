@@ -21,8 +21,10 @@
     "db:migrate": "supabase db push",
     "db:seed": "supabase db execute -f supabase/seed.sql"
   },
+  "dependencies": {
+    "next": "14.2.5"
+  },
   "devDependencies": {
-    "next": "14.2.5",
     "turbo": "^2.3.0",
     "typescript": "^5.3.0"
   },
